@@ -9,7 +9,9 @@ Assignment 10
 ![img_3.png](img_3.png)
 ![img_4.png](img_4.png)
 ![img_5.png](img_5.png)
-![img_6.png](img_6.png)![img_7.png](img_7.png)
+![img_6.png](img_6.png)
+![img_8.png](img_8.png)
+![img_9.png](img_9.png)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
